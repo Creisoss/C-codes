@@ -1,4 +1,4 @@
-# PI-comma-values
+# PI comma values
 Simple terminal-based algorithm that shows some pi numbers after the comma.
 
 <img src="PiTerminal.gif" width="500" height="200">
