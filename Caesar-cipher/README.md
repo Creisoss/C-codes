@@ -1,7 +1,7 @@
 # Caesar Cipher
 Simple terminal based algorithm that takes a string and encrypt using the caesar cipher method then save it on Crypto.txt.
 
-<img src="CaesarCrypto.gif" width="500" height="500">
+<img src="CaesarCrypto.gif" width="450" height="200">
 
     
 ## Running the code
